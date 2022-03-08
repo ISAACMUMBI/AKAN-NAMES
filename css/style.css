@@ -5,14 +5,15 @@ form{
 
     text-align: center;
 }
-.nav {
+aside{
     float:left;
     width:30%;
     
 }
-.section{
+article{
     float: left;
     width: 70%;
+    padding: 20px;
 }
 footer{
     width: 100%;
