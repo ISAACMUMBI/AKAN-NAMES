@@ -5,3 +5,16 @@ form{
 
     text-align: center;
 }
+.nav {
+    float:left;
+    width:30%;
+    
+}
+.section{
+    float: left;
+    width: 70%;
+}
+footer{
+    width: 100%;
+    
+}
