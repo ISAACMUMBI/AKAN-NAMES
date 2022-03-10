@@ -6,7 +6,7 @@
 ## html, CSS, JAVASCRIPT
 ## Support and contact details
 EMAIL:aizaqlee7@gmail.com, isaacmumbi@moringaschool.student.com
-PHONE NO:0708068400, 0708080005
+#PHONE NO:0708068400, 0708080005
 ### License:MIT
 Copyright (c) {year} **{List of contributors or company name}**
   
